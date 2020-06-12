@@ -1,0 +1,2 @@
+# singal_sprite_to_plist_replace
+cocos creator项目中的prefab绑定的散图片替换为plist合图中的图片的工具
